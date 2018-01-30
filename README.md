@@ -16,3 +16,6 @@ Project implement tools to cover all aspects of SPAC fundraising:
 | Voting   | Allows token holders to block planed acquisition                       |
 
 Full decription of ICO related SPAC is available at `spec` project directory.
+
+## Thanks;
+adbrome, bct, gsmasks5 & other contributers.
